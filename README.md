@@ -5,7 +5,7 @@ Play against an A.I. as either X or O.
 The A.I. calculates its optimal move by using the minimax algorithm.
 - Game will result in a draw or the A.I. will win.
 
-To run the application, make sure to have Python installed and then use runner.py to launch the game.
+To run the application, make sure to have Python installed and then use command-line function to run "python runner.py" to launch the game.
 
 Launch Screen:
 
